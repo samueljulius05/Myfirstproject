@@ -1,6 +1,28 @@
 body{
+    /* background-color: green;
+    border: thick solid red; */
+    text-align: center;
+}
+.Container{ 
+    width: 50%;
+    background-color: peachpuff;
+    border: 1px solid red;
+    border-left: thick red outset;
+    border-bottom: thick red outset;
+}
+.header{
+    background-color:royalblue;
+     border: medium red solid;
+}
+.menu{
     background-color: green;
-    border: thick solid red;
-
-    \
+    border: red thin solid;
+}
+.section{
+    background-color: lightyellow;
+    border:magenta thick solid;
+}
+.footer{
+    background-color: midnightblue;
+    border: red medium solid;
 }
