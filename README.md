@@ -47,7 +47,9 @@ Give a ⭐️ if you like this project!
 # Acknowledgments
 
 Nasiru-code
-Hat tip to anyone whose code was used
+
+Big thanks to anyone whose code was used
+
 Inspiration
 
 # 📝 License

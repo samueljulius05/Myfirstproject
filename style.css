@@ -1,7 +1,7 @@
-body{
-    /* background-color: green;
-    border: thick solid red; */
-    text-align: center;
+.body{
+     background-color: green;
+    border: 5px solid red; 
+    text-align: justify;
 }
 .Container{ 
     width: 50%;
@@ -26,3 +26,8 @@ body{
     background-color: midnightblue;
     border: red medium solid;
 }
+.subtopic{
+    background-color: springgreen;
+    border: 5px solid blueviolet;
+}
+
